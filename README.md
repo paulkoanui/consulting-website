@@ -1,6 +1,6 @@
-# Radiant
+# d8aware
 
-Radiant is a [Tailwind Plus](https://tailwindcss.com/plus) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+d8aware is a consulting website built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
 
 ## Getting started
 
@@ -24,7 +24,7 @@ You can start editing this template by modifying the files in the `/src` folder.
 
 ## License
 
-This site template is a commercial product and is licensed under the [Tailwind Plus license](https://tailwindcss.com/plus/license).
+This site is a custom implementation for d8aware consulting services.
 
 ## Learn more
 
