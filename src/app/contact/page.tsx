@@ -263,7 +263,7 @@ function QualificationFramework() {
 
 function FAQ() {
   return (
-    <Container className="mt-32">
+    <Container id="faq" className="mt-32">
       <Subheading>FAQ</Subheading>
       <Heading as="h3" className="mt-2">
         Frequently Asked Questions

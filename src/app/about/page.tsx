@@ -125,7 +125,7 @@ function ProfessionalBackground() {
 
 function ExperienceHighlights() {
   return (
-    <Container className="mt-32">
+    <Container id="experience" className="mt-32">
       <div className="grid grid-cols-1 gap-12 lg:grid-cols-2">
         <div>
           <h3 className="text-xl font-medium text-gray-950 mb-6">SaaS CRM Platform Development</h3>
@@ -170,7 +170,7 @@ function ExperienceHighlights() {
 
 function Philosophy() {
   return (
-    <Container className="mt-32">
+    <Container id="philosophy" className="mt-32">
       <Subheading>Philosophy & Approach</Subheading>
       <Heading as="h3" className="mt-2">
         Methodology Over Technology

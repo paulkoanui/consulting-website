@@ -154,7 +154,7 @@ function MethodologyDeepDive() {
   return (
     <div className="relative py-24">
       <Gradient className="absolute inset-x-2 top-48 bottom-0 rounded-4xl ring-1 ring-black/5 ring-inset" />
-      <Container className="relative">
+      <Container id="methodology" className="relative">
         <Subheading>Methodology</Subheading>
         <Heading as="h3" className="mt-2">
           5-Phase Systematic Approach
@@ -342,7 +342,7 @@ function MethodologyDeepDive() {
 
 function InvestmentROI() {
   return (
-    <Container className="py-32">
+    <Container id="investment" className="py-32">
       <Subheading>Investment & ROI</Subheading>
       <Heading as="h3" className="mt-2">
         Clear Value Proposition
