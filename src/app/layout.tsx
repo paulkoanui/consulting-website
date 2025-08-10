@@ -3,8 +3,8 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: {
-    template: '%s - Radiant',
-    default: 'Radiant - Close every deal',
+    template: '%s - d8aware',
+    default: 'd8aware - Transform Technical Debt Into Competitive Advantage',
   },
 }
 
