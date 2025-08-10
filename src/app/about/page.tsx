@@ -279,7 +279,7 @@ function ConsultingFocus() {
 
 function WhyD8aware() {
   return (
-    <Container className="mt-32">
+    <Container className="mt-32 pb-16">
       <Subheading>Why d8aware?</Subheading>
       <Heading as="h3" className="mt-2">
         "Data-Aware" Philosophy
