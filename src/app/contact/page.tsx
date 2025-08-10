@@ -328,7 +328,7 @@ function CallToAction() {
           </Button>
         </div>
         <p className="text-blue-200 mt-6 text-sm">
-          Looking for more information first? Review our <Link href="/services" className="text-white underline">Services Overview</Link> or read about <Link href="/about" className=\"text-white underline">My Approach</Link>.
+          Looking for more information first? Review our <Link href="/services" className="text-white underline">Services Overview</Link> or read about <Link href="/about" className="text-white underline">My Approach</Link>.
         </p>
       </div>
     </Container>
