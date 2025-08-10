@@ -1,5 +1,3 @@
-import { SanityLive } from '@/sanity/live'
-import { revalidateSyncTags } from '@/sanity/revalidateSyncTags'
 import '@/styles/tailwind.css'
 import type { Metadata } from 'next'
 
@@ -25,7 +23,6 @@ export default function RootLayout({
       </head>
       <body className="text-gray-950 antialiased">
         {children}
-        <SanityLive revalidateSyncTags={revalidateSyncTags} />
       </body>
     </html>
   )
